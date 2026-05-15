@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 2499,
+    "image": "images/headphones.jpg",
+    "description": "Bluetooth over-ear headphones with noise cancellation.",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Portable Charger 20000mAh",
+    "price": 1299,
+    "image": "images/powerbank.jpg",
+    "description": "Fast-charge power bank with dual USB-C output.",
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch",
+    "price": 4999,
+    "image": "images/smartwatch.jpg",
+    "description": "Fitness tracking, heart-rate monitor, 7-day battery.",
+    "stock": 8
+  }
+]
